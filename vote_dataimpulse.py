@@ -8,7 +8,7 @@ POLL_URL = "https://poll.fm/17221304"
 RESULTS_URL = "https://poll.fm/17221304/results"
 TARGET_ANSWER = "75253678"
 PROXY = "http://0d6f634b012ba3198f52:24a6ed9bd5565a7d@gw.dataimpulse.com:823"
-MAX_WORKERS = 100
+MAX_WORKERS = 150
 
 headers = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
